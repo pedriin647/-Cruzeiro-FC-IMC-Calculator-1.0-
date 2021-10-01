@@ -7,7 +7,7 @@
 <hr>
 
 
-![alt text](https://cdn.discordapp.com/attachments/697224317297098784/893320934755282964/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/697224317297098784/893329187245523004/unknown.png)
 
 <p> Um sistema simples e objetivo, apenas para colocar os conhecimentos aprendidos em prática. Logo mais estarei subindo mais projetos com javascript ao meu github.</p>
 
